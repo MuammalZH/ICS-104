@@ -14,7 +14,7 @@ PI = 3.14159
 radius = 10.3
 
 # Write your code below this line
-area = round(PI * radius * radius,2)
+area = round(PI * radius * radius, 2)
 circumfernce = round(2 * PI * radius, 2)
 
 print("The Area is:", area)
