@@ -1,6 +1,6 @@
 TotalWidth = 28
 TileWidth = 2
-### BEGIN SOLUTION 
+### BEGIN SOLUTION FOR THE SECOND TASK 8>
 WidthWithoutBlackTile = TotalWidth - TileWidth
 
 NumberOfTileGroups = int(WidthWithoutBlackTile // (4 * TileWidth) )

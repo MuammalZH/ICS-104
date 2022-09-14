@@ -1,7 +1,7 @@
 TotalWidth = 23
 TileWidth = 2 
 
-### BEGIN SOLUTION 
+### BEGIN SOLUTION FOR THE FIRST TASK <3
 WidthWithoutBlackTile = TotalWidth - TileWidth
 
 NumberOfPairs = int(WidthWithoutBlackTile // (2*TileWidth) )
