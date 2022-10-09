@@ -22,7 +22,7 @@ elif normName == "2-norm":
     twoNorm = sqrt((x1 - x2)**2 + (y1 - y2)**2)  # sqrt function from chapter two
     print("1-norm distance value =" ,"% .2f" % twoNorm)  # i can print it without define the twoNorm but ithink this way is cleaner
 
-elif normName == "infinity": # i waii use the max function from chapter two
+elif normName == "infinity": # i will use the max function from chapter two
     x1 = float(input("Enter value of coordinate value x1: "))
     y1 = float(input("Enter value of coordinate value y1: "))
     x2 = float(input("Enter value of coordinate value x2: "))
