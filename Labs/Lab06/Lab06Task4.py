@@ -1,5 +1,4 @@
 n = int(input("Enter n ( >=3 ): "))
-sum = 0
 if n >= 3:
     print("numbers between 1 and 27 divisible by 3 or 5 are:")
     for i in range(3,n+1):
