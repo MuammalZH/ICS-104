@@ -3,9 +3,9 @@ sum = 0
 i = 5
 if n >= 0 and n % 5 == 0:
     while i <= n:
-        sum += i
+        sum = sum + i
         i = i +5        
-    print(sum)        
+        print(sum)        
 else:
     print("Wrong input")
     
