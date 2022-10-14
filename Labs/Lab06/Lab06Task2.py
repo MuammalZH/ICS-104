@@ -1,6 +1,6 @@
 evenNum = 0
 oddNum = 0
-num = input("Enter a positive number: (or press Enter key to finish: )")
+num = input("Enter a positive number: (or press Enter key to finish: )").strip()
 if num != "":
     while num !="":
         value = int(num)
