@@ -7,9 +7,11 @@ if len(firstLetter) == 1 and firstLetter.isalpha():
         for i in alphabet:
             if i == firstLetter:
                 print(alphabet[idx::step])
-            idx +=1
+            else:
+                idx +=1
     else:
         print("Step cannot be 0")
     
 else:
     print("You must enter one letter")
+    
