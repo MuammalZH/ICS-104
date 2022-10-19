@@ -22,6 +22,7 @@ if numberOfLines >= 1 and numberOfLines <=26:
         index -= 1
         print()
     print(dash)
+    
         
 
 
