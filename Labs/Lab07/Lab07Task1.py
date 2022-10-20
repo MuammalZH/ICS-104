@@ -18,8 +18,8 @@ if numberOfLines >= 1 and numberOfLines <=26:
 
     for i in range(numberOfLines):
         for j in range(numberOfLines - i):
-            print(alphabet[index - j- 1 ] , end = ",")
-        index -=1
+            print(alphabet[index - j- 1 ] , end = ",")      
+            index -=1
         print()
     print(dash)
     
