@@ -15,6 +15,5 @@ def getLetters(string):
             up += i
     return up
 
-if __name__ == "__main__":
-    main()
+main()
     

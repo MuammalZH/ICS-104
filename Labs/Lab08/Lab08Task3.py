@@ -18,5 +18,4 @@ def indexOfCapitalLetters(string):
     return "["+  name[:-1] + "]"
 
 
-if __name__ == "__main__":
-    main()
+main()
