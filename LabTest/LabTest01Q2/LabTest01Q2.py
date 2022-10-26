@@ -9,3 +9,5 @@ if newSt == st:
     print("The reversed string is",newSt, "and it is palindrome")
 else:
     print("The revesed string is", newSt," and it is not a palindrome")
+    
+    

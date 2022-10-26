@@ -18,3 +18,6 @@ if sideA > 0 and sideB > 0 and sideC > 0:
         print("This is not a triangle")
 else:
     print("Sides must be positive")
+    
+    
+    
