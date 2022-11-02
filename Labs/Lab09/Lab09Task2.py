@@ -23,3 +23,5 @@ def compare(l1,l2):
             
 if __name__ == "__main__": # This line is optinal مو معانا في المنهج
     main()
+    
+    

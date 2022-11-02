@@ -14,3 +14,5 @@ def removing(lst , n):
 
 if __name__ == "__main__": # This line is optinal مو معانا في المنهج
     main()
+    
+    
