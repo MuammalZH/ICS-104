@@ -25,10 +25,9 @@ if __name__ =="__main__": # This line is optinal  مو معانا في المن�
     
     
     
+#--------------------------طريقة ثانية-------------------------------------------------------
     
-    # طريقة ثانية
-    
-#     def main():
+# def main():
 #     x = int(input("Enter a positive integer value: "))
 #     factors = intValue(x) 
 #     if factors == False:
