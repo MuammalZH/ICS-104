@@ -1,9 +1,8 @@
 def main():
     lst = list(range(2,101))   # or lst = []\n  for i in lst: \n \t lst.append(i)
-    newList = removing(lst,2)
-    newList = removing(lst,3)
-    newList = removing(lst,4)
-    newList = removing(lst,5)
+    
+    for newList in range(2,6):       
+        newList = removing(lst,newList)
     print(newList)
 
 def removing(lst , n):
@@ -12,7 +11,7 @@ def removing(lst , n):
             lst.remove(j)
     return lst
 
-if __name__ == "__main__": # This line is optinal مو معانا في المنهج
+if __name__ == "__main__": 
     main()
     
     

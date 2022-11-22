@@ -20,6 +20,7 @@ NumberOfWhiteTiles = NumberOfPairs
 # The outputs
 print("The Number Of Tiles : ", NumberOfTiles )
 print("The Gap At Each End : ", GapAtEachEnd )
-
+print(NumberOfBlackTiles)
+print(NumberOfWhiteTiles)
 
 ### END SOLUTION

@@ -35,3 +35,7 @@ elif number[1:].isdigit() and number[0] == "-":
     print(operations[:-3], "=",int(sumOfBaseTen))
 else:
     print("Error: the input value is not an integer number")
+    
+    
+    
+    
